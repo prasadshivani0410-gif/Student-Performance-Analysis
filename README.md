@@ -64,4 +64,4 @@ The thing that surprised me the most was how big a role lunch type plays. Almost
    pip install pandas numpy matplotlib seaborn
    ```
 2. Put `StudentsPerformance.csv` in the same folder as the notebook
-3. Open and run `stuperfomance_analysis.ipynb` in Jupyter Notebook
+3. Open and run `studentperfomance_analysis.ipynb` in Jupyter Notebook
